@@ -29,9 +29,9 @@ Hai! Saya Haris Iskandar Muda, seorang pengembang web dengan fokus pada pembuata
 ---
 
 ### Hubungi Saya 📬
-- **Website**: [himup.id](https://himup.id)
-- **Email**: harismuda@example.com
-- **LinkedIn**: [Haris Muda](https://linkedin.com/in/harismuda)
+- **WhatsApp**: [082387805745](https://wa.me/6282387805745)
+- **Email**: harismuda20102003@gmail.com
+- **LinkedIn**: [Haris Iskandar Muda](https://www.linkedin.com/in/haris-iskandar-muda-523492281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **GitHub**: [@harismuda](https://github.com/harismuda)
 
 Mari bangun sesuatu yang luar biasa bersama! 🚀
