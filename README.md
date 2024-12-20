@@ -1,13 +1,12 @@
 # Halo, Selamat Datang di Profil Saya! 👋
 
 ## Tentang Saya ✨
-Hai! Saya Haris Iskandar Muda, seorang pengembang web dengan fokus pada pembuatan dan maintenance website untuk coffee shop dan e-commerce. Passion saya adalah menciptakan solusi digital yang keren, efektif, dan sesuai kebutuhan klien.
+Hai! Saya Haris Iskandar Muda, seorang pengembang web yang berfokus pada pembuatan dan perawatan website untuk berbagai jenis bisnis. Saya percaya bahwa teknologi bisa jadi solusi untuk mempercepat pertumbuhan bisnis dan saya selalu berusaha memberikan pengalaman digital yang efektif, kreatif, dan sesuai dengan kebutuhan klien.
 
 ### Apa yang Saya Lakukan 🔧
-- **Pengembangan Website**: Custom website dengan desain unik.
-- **Manajemen Konten**: Implementasi CMS seperti WordPress dan Laravel.
-- **Optimisasi SEO**: Supaya website lebih mudah ditemukan di Google.
-- **AI Projects**: Lagi eksplor bikin AI seru di [smojo.ai](https://smojo.ai)!
+- **Pengembangan Website**: Membangun website dengan desain custom yang responsif, modern, dan disesuaikan dengan kebutuhan bisnis klien.
+- **Manajemen Konten**: Mengimplementasikan sistem manajemen konten (CMS) seperti Laravel untuk mempermudah pengelolaan konten secara efisien.
+- **AI Projects**: Lagi eksplor bikin AI seru di [smojo.ai](https://smojo.ai), eksplorasi ide-ide inovatif untuk solusi digital yang lebih pintar!
 
 ### Tools & Teknologi 🛠️
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
