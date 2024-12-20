@@ -18,9 +18,9 @@ Hai! Saya Haris Iskandar Muda, seorang pengembang web yang berfokus pada pembuat
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Statistik GitHub 📊
-[![Haris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harismuda&show_icons=true&theme=onedark)](https://github.com/harismuda)
+[![Haris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryo-ma&show_icons=true&theme=onedark)](https://github.com/harismuda)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harismuda&layout=compact&theme=onedark)](https://github.com/harismuda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact&theme=onedark)](https://github.com/harismuda)
 
 ### Prestasi GitHub 🏆
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
