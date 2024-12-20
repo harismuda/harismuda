@@ -1,7 +1,7 @@
 # Halo, Selamat Datang di Profil Saya! 👋
 
 ## Tentang Saya ✨
-Hai! Saya Haris Iskandar Muda, seorang pengembang web yang berfokus pada pembuatan dan perawatan website untuk berbagai jenis bisnis. Saya percaya bahwa teknologi bisa jadi solusi untuk mempercepat pertumbuhan bisnis dan saya selalu berusaha memberikan pengalaman digital yang efektif, kreatif, dan sesuai dengan kebutuhan klien.
+Hai! Saya Haris Iskandar Muda, seorang fresh graduate lulusan SMK yang sekarang sedang berkuliah di Teknik Informatika Universitas Dian Nusantara sebagai kelas karyawan. Sebagai pengembang web, saya berfokus pada pembuatan dan perawatan website untuk berbagai jenis bisnis. Saya percaya bahwa teknologi bisa jadi solusi untuk mempercepat pertumbuhan bisnis dan selalu berusaha memberikan pengalaman digital yang efektif, kreatif, dan sesuai dengan kebutuhan klien.
 
 ### Apa yang Saya Lakukan 🔧
 - **Pengembangan Website**: Membangun website dengan desain custom yang responsif, modern, dan disesuaikan dengan kebutuhan bisnis klien.
