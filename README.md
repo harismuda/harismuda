@@ -23,7 +23,7 @@ Hai! Saya Haris Iskandar Muda, seorang pengembang web yang berfokus pada pembuat
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harismuda&layout=compact&theme=onedark)](https://github.com/harismuda)
 
 ### Prestasi GitHub 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=harismuda&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]
 
 ---
 
